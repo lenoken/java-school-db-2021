@@ -1,7 +1,5 @@
 package homework.lab1;
 
-import jdk.jfr.DataAmount;
-
 import java.util.Arrays;
 
 public class LenaSuperIntegerList implements SuperIntegerList{
@@ -56,6 +54,5 @@ public class LenaSuperIntegerList implements SuperIntegerList{
         for (int value : myList) {
             System.out.println(value + " ");
         }
-        System.out.println("---");
     }
 }
