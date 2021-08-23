@@ -1,4 +1,4 @@
-package homework.java8;
+package java8;
 
 import java.util.Collections;
 import java.util.List;
